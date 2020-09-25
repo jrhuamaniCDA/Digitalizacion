@@ -1,0 +1,8 @@
+C:\Users\jrhuamani\source\repos\Digitalizacion.v1\Digitalizacion.v1.Core\obj\Debug\netcoreapp3.1\Digitalizacion.v1.Core.csprojAssemblyReference.cache
+C:\Users\jrhuamani\source\repos\Digitalizacion.v1\Digitalizacion.v1.Core\obj\Debug\netcoreapp3.1\Digitalizacion.v1.Core.AssemblyInfoInputs.cache
+C:\Users\jrhuamani\source\repos\Digitalizacion.v1\Digitalizacion.v1.Core\obj\Debug\netcoreapp3.1\Digitalizacion.v1.Core.AssemblyInfo.cs
+C:\Users\jrhuamani\source\repos\Digitalizacion.v1\Digitalizacion.v1.Core\bin\Debug\netcoreapp3.1\Digitalizacion.v1.Core.deps.json
+C:\Users\jrhuamani\source\repos\Digitalizacion.v1\Digitalizacion.v1.Core\bin\Debug\netcoreapp3.1\Digitalizacion.v1.Core.dll
+C:\Users\jrhuamani\source\repos\Digitalizacion.v1\Digitalizacion.v1.Core\bin\Debug\netcoreapp3.1\Digitalizacion.v1.Core.pdb
+C:\Users\jrhuamani\source\repos\Digitalizacion.v1\Digitalizacion.v1.Core\obj\Debug\netcoreapp3.1\Digitalizacion.v1.Core.dll
+C:\Users\jrhuamani\source\repos\Digitalizacion.v1\Digitalizacion.v1.Core\obj\Debug\netcoreapp3.1\Digitalizacion.v1.Core.pdb

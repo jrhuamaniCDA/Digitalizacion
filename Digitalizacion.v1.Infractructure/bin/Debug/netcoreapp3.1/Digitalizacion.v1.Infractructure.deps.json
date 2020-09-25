@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Digitalizacion.v1.Infractructure/1.0.0": {
+        "dependencies": {
+          "Digitalizacion.v1.Core": "1.0.0"
+        },
+        "runtime": {
+          "Digitalizacion.v1.Infractructure.dll": {}
+        }
+      },
+      "Digitalizacion.v1.Core/1.0.0": {
+        "runtime": {
+          "Digitalizacion.v1.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Digitalizacion.v1.Infractructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Digitalizacion.v1.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
